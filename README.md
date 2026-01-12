@@ -1,7 +1,7 @@
 # Dashboard Node-RED pour Station Météo ESP32
 
 ## 📊 Aperçu
-Dashboard complet pour visualiser et contrôler une station météo ESP32 via MQTT.
+Dashboard complet pour visualiser le monitoring de température et d’humidité, couplé à un contrôle interactif de périphériques (LED, servomoteur, bande Neopixel.
 
 ## 🚀 Installation Rapide
 
